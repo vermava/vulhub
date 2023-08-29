@@ -1,3 +1,3 @@
-FROM grafana/grafana:8.2.6
+FROM grafana/grafana:8.5.0-51913pre-ubuntu
 
 LABEL maintainer="phithon <root@leavesongs.com>"
